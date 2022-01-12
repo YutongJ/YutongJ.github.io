@@ -10,11 +10,11 @@ redirect_from:
 
 Greetings! 
 
-I am a fourth-year PhD candidate in [the Biostatistics at Emory University](https://www.sph.emory.edu/departments/bios/index.html), under the guidance of [David Benkeser](https://www.sph.emory.edu/faculty/profile/index.php?FID=8917). Before joining Emory, I obtained my MD from Fudan University.
+I am a fourth-year PhD candidate in [the Biostatistics at Emory University](https://www.sph.emory.edu/departments/bios/index.html), under the guidance of Dr. [David Benkeser](https://www.sph.emory.edu/faculty/profile/index.php?FID=8917). Before joining Emory, I obtained my Bachelor degree in clinical medine from Fudan University.
 
 I am quite interested in solving the health-related problems, thus I seek to fill the gap between the medicine and statistics and further help improve the living quality of everone. This led me to the biostatistics area, which can best mount my enthusiasm.
 
 
-My recent research focus on causal inference and machine learning, particularly in the development of statistical procedures for efficient estimation and robust inference with flexible ML tools. Broadly, I am motivated by methodological researches on high-dimensional feature identification, targeted minimum loss-based estimation, and theory for two-stage sampling designs, which are usually rooted in vaccine clinical trials.
+My recent research focuses on causal inference and machine learning, particularly in the development of statistical procedures for efficient estimation and robust inference with flexible ML tools. Broadly, I am interested in methodological researches on high-dimensional feature identification, targeted minimum loss-based estimation, and theory for two-stage sampling designs, which are usually rooted in vaccine clinical trials.
 
-If you are also interested in the above areas, please shoot me at [yutong.jin@emory.edu](yutong.jin@emory.edu) and I am more than happy to discuss more!
+If you are also interested in the above areas, please contact me at [yutong.jin@emory.edu](yutong.jin@emory.edu) and I am happy to discuss more!
