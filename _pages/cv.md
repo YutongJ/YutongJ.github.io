@@ -13,9 +13,9 @@ redirect_from:
 
 Education
 ======
-* M.D. in Fudan University, 2016
-* M.S. in Biostatistics, Emory University, 2018
 * Ph.D in Biostatistics, Emory University, 2023 (expected)
+* M.S. in Biostatistics, Emory University, 2018
+* B.M. in Fudan University, 2016
 
 
 Research Experience
