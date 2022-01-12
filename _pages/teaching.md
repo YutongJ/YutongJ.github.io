@@ -12,7 +12,7 @@ author_profile: true
 {% endfor %} -->
 
 
-# Graduate Teaching Assistant at Emory
+### Graduate Teaching Assistant at Emory
 
 - BIOS 510: Probability Theory
 
