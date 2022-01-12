@@ -1,6 +1,6 @@
 ---
 title: 'Future Blog Post'
-date: 2099-13-32
+date: 2100-12-31
 <!-- permalink: /posts/2012/08/blog-post-4/ -->
 tags:
   - cool posts
