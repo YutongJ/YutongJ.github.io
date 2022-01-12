@@ -25,7 +25,7 @@ Barry, E. L., Fedirko, V., **Jin, Y.**, Liu, K., Mott, L. A., Peacock, J. L., Pa
 
 **Jin, Y.**, Jiang, J., Wang, R. & Qin, Z. S. (2021). Systematic Evaluation of DNA Sequence Variations on in vivo Transcription Factor Binding Affinity. *Frontiers in Genetics*. [DOI](https://doi:10.3389/fgene.2021.667866)
 
-Guo, T., Wu, Y., Huang, D., Jin, Y., Sheng, W., Cai, S., Zhou, X., Zhu, X., Liu, F., & Xu, Y. (2021). Prognostic Value of KRAS Exon 3 and Exon 4 Mutations in Colorectal Cancer Patients. *Journal of Cancer* 12(17), 5 331 5337. [DOI](https://doi:10.7150/jca.59193)
+Guo, T., Wu, Y., Huang, D., **Jin, Y.**, Sheng, W., Cai, S., Zhou, X., Zhu, X., Liu, F., & Xu, Y. (2021). Prognostic Value of KRAS Exon 3 and Exon 4 Mutations in Colorectal Cancer Patients. *Journal of Cancer* 12(17), 5 331 5337. [DOI](https://doi:10.7150/jca.59193)
 
 Guo, T. A., Wu, Y. C., Tan, C., **Jin, Y. T.**, Sheng, W. Q., Cai, S. J., Liu, F. Q. & Xu, Y. (2019). Clinicopathologic features and prognostic value of KRAS, NRAS, and BRAF mutations and DNA mismatch repair status: a single single-center retrospective study of 1834 Chinese patients with stage I I-IV colorectal cancer. *International Journal of Cancer*. [DOI](https://doi.org/10.1002/ijc.32489)
 
