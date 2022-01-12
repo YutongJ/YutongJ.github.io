@@ -20,16 +20,10 @@ Education
 
 Research Experience
 ======
+Coming soon.
 
   
 Applied Projects
 ======
+Coming soon.
 
-  
- 
-Teaching
-======
-
-
-Publications
-======
