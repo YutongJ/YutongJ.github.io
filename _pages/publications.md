@@ -34,8 +34,8 @@ Guo, T. A., Wu, Y. C., Tan, C., **Jin, Y. T.**, Sheng, W. Q., Cai, S. J., Liu, F
 
 Posters
 ======
-**28th International Dynamics & Evolution of Human Viruses conference**
-*virturally May 5-7, 2021*
+**28th International Dynamics & Evolution of Human Viruses conference**\
+*virturally May 5-7, 2021*\
 [TARGETED MACHINE LEARNING FOR UNDERSTANDING HIV RESISTANCE TO NEUTRALIZING ANTIBODIES](https://cpd.ucsd.edu/hivdynamics/posters/12-Poster-Jin.pdf)
 
 
