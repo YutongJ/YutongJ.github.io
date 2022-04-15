@@ -32,10 +32,17 @@ Guo, T. A., Wu, Y. C., Tan, C., **Jin, Y. T.**, Sheng, W. Q., Cai, S. J., Liu, F
 
 
 
+Talks
+======
+**ENAR 2022**\
+*March 27-30, 2022*\
+[Identifying HIV Sequences that Escape Antibody Neutralization Using Random Forests and Collaborative Targeted Learning](/files/ENAR_2022.pdf)
+
+
 Posters
 ======
 **28th International Dynamics & Evolution of Human Viruses conference**\
 *virturally May 5-7, 2021*\
-[TARGETED MACHINE LEARNING FOR UNDERSTANDING HIV RESISTANCE TO NEUTRALIZING ANTIBODIES](https://cpd.ucsd.edu/hivdynamics/posters/12-Poster-Jin.pdf)
+[TARGETED MACHINE LEARNING FOR UNDERSTANDING HIV RESISTANCE TO NEUTRALIZING ANTIBODIES](/files/PosterPresentations_YJ.pdf)
 
 
