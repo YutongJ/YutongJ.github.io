@@ -1,2 +1,23 @@
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# R stuff #
+###########
+*.Rhistory
+*.Rproj.user
+*.Rproj
+.Rproj.user
+*.Rdata
+*.rds
+
+# Old or sandbox file #
+#######################
 _site/
 
