@@ -9,22 +9,24 @@ tags:
 ---
 <!-- This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`.  -->
 
-### Prerequisite
+![cluster_logo](/images/posts_related/rsph_cluster.PNG)
+
+## Prerequisite
 If you want to access the culster from outside the Emory (e.g. using Emory wifi), you need to connect to [Emory VPN](https://it.emory.edu/security/vpn.html) first.
 
 
-### A useful toolkit combo
+## A useful toolkit combo
 - Windows User: 
 	1. Windows PowerShell
-	2. (2) [WinSCP](https://winscp.net/eng/index.php).
+	2. [WinSCP](https://winscp.net/eng/index.php)
 
 - Mac user: 
 	1. terminal
 	2. [Cyberduck](https://cyberduck.io/) or 
-	3. Remote mounting using sshfs (details of this method can be found below). 
+	3. Remote mounting using sshfs (details of this method can be found below.)
 
 
-### Login to the cluster
+## Login to the cluster
 
 Open terminal/PowerShell on your computer, and then login using `ssh` with command:
 ```
@@ -49,14 +51,14 @@ sshfs yjin85@clogin01.sph.emory.edu:/home/yjin85 /Users/yutong/Firmiana/yjin85/ 
 ```
 4. If you mount with error in step 3 and want to re-mount, you should unmount first with the following:
 ```
-sudo umount /Users/yutong/Firmiana/yjin85/ 
+sudo umount /Users/yutong/yjin85/ 
 ```
-*Note1: If you encountered any issues in installing these for M1 chip, please see [this page](https://github.com/daiqile96/Tools/blob/main/M1ChipIssues/README.md).*
+*Note1: If you encountered any issues in installing these for Apple Mac with M1 chip, please see [this page](https://github.com/daiqile96/Tools/blob/main/M1ChipIssues/README.md).*
 
 
 
 
-### Additional Resources
+## Additional Resources
 
 1. Some useful tips provided by the RSPH IT:
 	- The [HPC Getting Started Guide](/files/posts_related/HPCGuide.pdf). 
