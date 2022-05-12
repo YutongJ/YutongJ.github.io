@@ -20,4 +20,5 @@ Thumbs.db
 # Old or sandbox file #
 #######################
 _site/
-
+local_build_check.txt
+Gemfile.lock
