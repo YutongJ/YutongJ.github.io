@@ -12,51 +12,62 @@ tags:
 ![cluster_logo](/images/posts_related/rsph_cluster.PNG)
 
 ## Prerequisite
-If you want to access the culster from outside the Emory (e.g. using Emory wifi), you need to connect to [Emory VPN](https://it.emory.edu/security/vpn.html) first.
+If you want to access the culster from outside the Emory (e.g. using Emory wifi), you need to connect to [Emory VPN](https://it.emory.edu/vpntools/) first.
 
+<br/>
 
-## A useful toolkit combo
+## A useful toolkit COMBO
 - Windows User: 
 	1. Windows PowerShell
 	2. [WinSCP](https://winscp.net/eng/index.php)
 
 - Mac user: 
 	1. terminal
-	2. [Cyberduck](https://cyberduck.io/) or 
-	3. Remote mounting using sshfs (details of this method can be found below.)
+	2. a. [Cyberduck](https://cyberduck.io/) or [FileZilla](https://filezilla-project.org)\
+	b. Remote mounting using sshfs (details of this method can be found below.)
 
+<br/>
 
 ## Login to the cluster
+This is where we interact with cluster, e.g. installing packages, submitting jobs, etc.
 
+**How:**\
 Open terminal/PowerShell on your computer, and then login using `ssh` with command:
+\normalsize
+```bash
+ssh netid@clogin01.sph.emory.edu
 ```
-ssh yjin85@clogin01.sph.emory.edu
-```
+*Note: NetID is your official network ID that is used to access all resources throughout Emory.*
 
+
+<br/>
+<br/>
 
 
 **Details about mounting remote directory to local computer:**
-After following the following steps, you don't need to use any SFTP client to move your file back and forth. There is one caveat: beware of deleting files in the mounted folder if you only have one copy here.
+After following the steps, you don't need to use any SFTP client to move your file back and forth. \
+There is one <span style="color:red"> **caveat**</span>: beware of deleting files in the mounted folder if you only have one copy here.
 
-1. Install [sshfs](https://github.com/osxfuse/osxfuse/wiki/SSHFS) and [macFUSE](https://osxfuse.github.io/).
-*Note2: If you encountered any issues in installing these for M1 chip, please see [this page](https://github.com/daiqile96/Tools/blob/main/M1ChipIssues/README.md).*
+1. Install [sshfs](https://github.com/osxfuse/osxfuse/wiki/SSHFS) and [macFUSE](https://osxfuse.github.io/).\
+*Note: If you encountered any issues in installing these for M1 chip, please see [this page](https://github.com/daiqile96/Tools/blob/main/M1ChipIssues/README.md).*
 
 2. Create a local directory (destination on your own computer).
-```
+```bash
 mkdir /Users/yutong/local_HPC_folder
 ``` 
 3. Mount cluster directory to your local directory. Here is an example of mount remote folder `/home/yjin85` to local folder `/Users/yutong/yjin85/`:
-```
+```bash
 sshfs yjin85@clogin01.sph.emory.edu:/home/yjin85 /Users/yutong/Firmiana/yjin85/ -o auto_cache -o follow_symlinks
 ```
 4. If you mount with error in step 3 and want to re-mount, you should unmount first with the following:
-```
+```bash
 sudo umount /Users/yutong/yjin85/ 
 ```
-*Note1: If you encountered any issues in installing these for Apple Mac with M1 chip, please see [this page](https://github.com/daiqile96/Tools/blob/main/M1ChipIssues/README.md).*
 
+<br/>
+<br/>
 
-
+<!-- <span style="color:red">some **This is Red Bold.** text</span> -->
 
 ## Additional Resources
 
