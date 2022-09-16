@@ -33,7 +33,6 @@ This is where we interact with cluster, e.g. installing packages, submitting job
 
 **How:**\
 Open terminal (or PowerShell) on your computer, and then login using `ssh` with command:
-
 ```bash
 ssh netid@clogin01.sph.emory.edu
 ```
