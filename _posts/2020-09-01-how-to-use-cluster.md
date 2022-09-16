@@ -32,8 +32,8 @@ If you want to access the culster from outside the Emory (e.g. using Emory wifi)
 This is where we interact with cluster, e.g. installing packages, submitting jobs, etc.
 
 **How:**\
-Open terminal/PowerShell on your computer, and then login using `ssh` with command:
-\normalsize
+Open terminal (or PowerShell) on your computer, and then login using `ssh` with command:
+
 ```bash
 ssh netid@clogin01.sph.emory.edu
 ```
