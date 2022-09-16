@@ -1,0 +1,36 @@
+---
+title: 'Some Useful Bash Commands'
+date: 2020-09-01
+<!-- permalink: /posts/2012/08/blog-post-4/ -->
+tags:
+  - command line
+  - HPC
+  - slurm
+---
+<!-- This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`.  -->
+
+![cluster_logo](/images/posts_related/rsph_cluster.PNG)
+
+## Life is short but jobs are infinite.
+This is a summary of some useful commands. Be careful about "space" usage in command line.
+
+<br/>
+
+**Example: Show current time:**\
+```bash
+date +"%T"
+````
+
+**Example: count the number of files in certain folder:**\
+```bash
+# go to certain folder
+cd /folder_of_interest/
+# count the number of files
+ls | wc -l
+````
+
+
+
+
+
+
