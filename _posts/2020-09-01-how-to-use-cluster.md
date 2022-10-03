@@ -43,7 +43,7 @@ ssh netid@clogin01.sph.emory.edu
 <br/>
 
 
-**Details about mounting remote directory to local computer:**
+**Details about mounting remote directory to local computer:**\
 After following the steps, you don't need to use any SFTP client to move your file back and forth. \
 There is one <span style="color:red"> **caveat**</span>: beware of deleting files in the mounted folder if you only have one copy here.
 
