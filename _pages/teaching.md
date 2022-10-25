@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching and Mentoring"
 permalink: /teaching/
 author_profile: true
 ---
@@ -12,12 +12,18 @@ author_profile: true
 {% endfor %} -->
 
 
-### Graduate Teaching Assistant at Emory
+## Graduate Teaching Assistant at Emory
 
-- BIOS 510: Probability Theory
+Responsibilities include hosting review sessions, preparing homework keys, holding office hours, and grading assignments.
 
-- BIOS 511: Introduction to Statistical Inference
+- BIOS 510 - Probability Theory (Master core course): 36 students.
 
-- BIOS 526: Modern Regression Analysis
+- BIOS 511 - Introduction to Statistical Inference (Master core course): 23 students.
 
-- BIOS 745R: Biostatistical Consulting
+- BIOS 526 - Modern Regression Analysis (Master core course): 32 students.
+
+- BIOS 745R - Biostatistical Consulting (PhD core course): 10 students.
+
+
+## Graduate Teaching Assistant at Emory
+
