@@ -9,21 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
-[CV pdf](/files/CV_YJ.pdf)
+My CV is available [here](/files/CV_YJ.pdf)
+
+
 
 Education
 ======
-* Ph.D in Biostatistics, Emory University, 2023 (expected)
-* M.S. in Biostatistics, Emory University, 2018
-* B.M. in Fudan University, 2016
+**Ph.D** in Biostatistics, Emory University, 2023 (expected)\
+Dissertation Advisor: [David Benkeser](https://www.sph.emory.edu/faculty/profile/index.php?FID=8917)\
+Dissertation Committee: 
+[Holly Janes](https://www.fredhutch.org/en/faculty-lab-directory/janes-holly.html),
+[Robert Lyles](https://sph.emory.edu/faculty/profile/index.php?FID=robert-lyles-492),
+[Hao Wu](https://www.sph.emory.edu/faculty/profile/index.php?FID=8597)
 
 
-Research Experience
-======
-Coming soon.
+**M.S.** in Biostatistics, Emory University, 2018\
+Thesis Advisor: [Zhaohui "Steve" Qin](https://www.sph.emory.edu/faculty/profile/index.php?FID=8697)
 
-  
-Applied Projects
-======
-Coming soon.
+
+
+**B.M.** in Clinical Medicine (**M.D.** Equivalency in the US), Fudan University, 2016
+
 
