@@ -1,6 +1,6 @@
 ---
 title: 'Some Useful Bash Commands'
-date: 2020-09-01
+date: 2022-09-15
 <!-- permalink: /posts/2012/08/blog-post-4/ -->
 tags:
   - command line
@@ -16,12 +16,12 @@ This is a summary of some useful commands. Be careful about "space" usage in com
 
 <br/>
 
-**Example: Show current time:**\
+**Example: Show current time:**
 ```bash
 date +"%T"
 ````
 
-**Example: count the number of files in certain folder:**\
+**Example: count the number of files in certain folder:**
 ```bash
 # go to certain folder
 cd /folder_of_interest/
@@ -29,7 +29,14 @@ cd /folder_of_interest/
 ls | wc -l
 ````
 
-
+**Example: Bash arithmetic expansion:**
+The builtin shell expansion allows you to use the parentheses ((...)) to do math calculations.
+```bash
+# initiate a value for x and output it with 'echo'
+x=3 && echo $x
+# calculation using ((...))
+echo $((x+2)) 
+````
 
 
 
