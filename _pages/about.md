@@ -10,7 +10,7 @@ redirect_from:
 
 Greetings! 
 
-I am a fourth-year PhD candidate in [the Biostatistics at Emory University](https://www.sph.emory.edu/departments/bios/index.html), under the guidance of Dr. [David Benkeser](https://www.sph.emory.edu/faculty/profile/index.php?FID=8917). Before joining Emory, I obtained my Bachelor degree in clinical medine from Fudan University.
+I am a PhD candidate in [the Biostatistics at Emory University](https://www.sph.emory.edu/departments/bios/index.html), under the guidance of Dr. [David Benkeser](https://www.sph.emory.edu/faculty/profile/index.php?FID=8917). Before joining Emory, I obtained my Bachelor degree in clinical medine from Fudan University.
 
 I am quite interested in solving the health-related problems, thus I seek to fill the gap between the medicine and statistics and further help improve the living quality of everyone. This led me to the biostatistics area, which can best mount my enthusiasm.
 
