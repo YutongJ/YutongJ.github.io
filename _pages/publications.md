@@ -22,7 +22,7 @@ Papers
 ## Methodology Works:
 [3] **Jin, Y.**, Luedtke, A., & Benkeser, D. (2022+). Comparing Vaccine Immunogenicity across Trials with Different Populations and Study Designs. (To be submitted)
 
-[2] **Jin, Y.** & Benkeser, D. (2022). Identifying HIV sequences that escape antibody neutralization using random forests and collaborative targeted learning. *Journal of Causal Inference*. (Accepted)
+[2] **Jin, Y.** & Benkeser, D. (2022). Identifying HIV sequences that escape antibody neutralization using random forests and collaborative targeted learning. *Journal of Causal Inference*. [https://doi.org/10.1515/jci-2021-0053](https://doi.org/10.1515/jci-2021-0053)
 
 [1] **Jin, Y.**, Jiang, J., Wang, R. & Qin, Z. S. (2021). Systematic Evaluation of DNA Sequence Variations on in vivo Transcription Factor Binding Affinity. *Frontiers in Genetics*. [doi.org/10.3389/fgene.2021.667866](https://doi.org/10.3389/fgene.2021.667866)
 
