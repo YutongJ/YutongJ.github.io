@@ -25,5 +25,8 @@ Responsibilities include hosting review sessions, preparing homework keys, holdi
 - BIOS 745R - Biostatistical Consulting (PhD core course): 10 students.
 
 
-## Graduate Teaching Assistant at Emory
+## Mentoring at Emory
 
+- Mentored an undergraduate student on summer research, 2019.
+
+- Mentored a Master student on thesis project, 2019 – 2021.
