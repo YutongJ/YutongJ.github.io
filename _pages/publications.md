@@ -54,17 +54,22 @@ Papers
 
 Talks
 ======
+**Emory Alliance for Vaccine Epidemiology (EAVE) 2022**\
+*September, 2022*\
+Comparing Vaccine Immunogenicity across Trials with Different Populations and Sampling Designs\
+The slides can be found [here](/files/talks_posters_related/Lightning.pdf)
+
 **ENAR 2022**\
-*March 27-30, 2022*\
+*March, 2022*\
 Identifying HIV Sequences that Escape Antibody Neutralization Using Random Forests and Collaborative Targeted Learning\
-The slides can be found [here](/files/ENAR_2022.pdf)
+The slides can be found [here](/files/talks_posters_related/ENAR_2022.pdf)
 
 
 Posters
 ======
 **28th International Dynamics & Evolution of Human Viruses conference**\
-*virturally May 5-7, 2021*\
+*virturally May, 2021*\
 TARGETED MACHINE LEARNING FOR UNDERSTANDING HIV RESISTANCE TO NEUTRALIZING ANTIBODIES\
-The poster can be found [here](/files/PosterPresentations_YJ.pdf)
+The poster can be found [here](/files/talks_posters_related/PosterPresentations_YJ.pdf)
 
 
