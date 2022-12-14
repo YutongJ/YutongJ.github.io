@@ -30,7 +30,7 @@ Papers
 ## Applied Works:
 [10] **Jin, Y.**, Li, J. & Du, Y. (2022+). Improved Inference for Binary Outcome Dichotomized from Continuous Variable with Super Learner and Targeted Learning. (In preparation)
 
-[9] **Jin, Y.**, Benkeser, D., Kipiani, M., Mikiashvili, L., Barbakadze, K., Avaliani, Z., Alghamdi, W., Al-Shaer, M.H., Peloquin, C.A., Blumberg, H.M., & Kempker, R.R. (2022+). The impact of QTc prolonging drugs and anti-tuberculosis pharmacokinetics including bedaquiline and delamanid on QTc prolongation. <!-- *International Journal of Antimicrobial Agents*. -->(To be submitted)
+[9] **Jin, Y.**, Benkeser, D., Kipiani, M., Mikiashvili, L., Barbakadze, K., Avaliani, Z., Alghamdi, W., Al-Shaer, M.H., Peloquin, C.A., Blumberg, H.M., & Kempker, R.R. (2022+). The impact of QTc prolonging drugs and anti-tuberculosis pharmacokinetics including bedaquiline and delamanid on QTc prolongation. <!-- *International Journal of Antimicrobial Agents*. -->(Submitted)
 
 [8] Wood, K., **Jin, Y.**, & Krafty, R. T. (2022+). The validation of the Patient Perception of Arrhythmia Questionnaire. (In preparation)
 
