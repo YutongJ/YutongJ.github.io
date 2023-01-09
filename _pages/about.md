@@ -18,3 +18,5 @@ I am quite interested in solving the health-related problems, thus I seek to fil
 My recent research focuses on causal inference and machine learning, particularly in the development of statistical procedures for efficient estimation and robust inference with flexible ML tools. Broadly, I am interested in methodological researches on high-dimensional feature identification, targeted minimum loss-based estimation, and theory for two-stage sampling designs, which are usually rooted in vaccine clinical trials.
 
 If you are also interested in the above areas, please contact me at [yutong.jin@emory.edu](yutong.jin@emory.edu) and I am happy to discuss more!
+
+**I am actively looking for post-doc opportunities. Please feel free to contact me if you have one!**
