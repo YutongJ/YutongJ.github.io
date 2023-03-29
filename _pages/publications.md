@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
  -->
 
-Papers
+Publications
 ======
 
 ## Methodology Works:
@@ -30,7 +30,7 @@ Papers
 ## Applied Works:
 [10] **Jin, Y.**, Li, J. & Du, Y. (2022+). Improved Inference for Binary Outcome Dichotomized from Continuous Variable with Super Learner and Targeted Learning. (In preparation)
 
-[9] **Jin, Y.**, Benkeser, D., Kipiani, M., Mikiashvili, L., Barbakadze, K., Avaliani, Z., Alghamdi, W., Al-Shaer, M.H., Peloquin, C.A., Blumberg, H.M., & Kempker, R.R. (2022+). The impact of QTc prolonging drugs and anti-tuberculosis pharmacokinetics including bedaquiline and delamanid on QTc prolongation. <!-- *International Journal of Antimicrobial Agents*. -->(Submitted)
+[9] **Jin, Y.**, Benkeser, D., Kipiani, M., Mikiashvili, L., Barbakadze, K., Avaliani, Z., Alghamdi, W., Al-Shaer, M.H., Peloquin, C.A., Blumberg, H.M., & Kempker, R.R. (2022+). The impact of QTc prolonging drugs and anti-tuberculosis pharmacokinetics including bedaquiline and delamanid on QTc prolongation. <!-- *International Journal of Antimicrobial Agents*. -->(Under Review)
 
 [8] Wood, K., **Jin, Y.**, & Krafty, R. T. (2022+). The validation of the Patient Perception of Arrhythmia Questionnaire. (In preparation)
 
@@ -50,26 +50,5 @@ Papers
 [1] Guo, T. A., Wu, Y. C., Tan, C., **Jin, Y. T.**, Sheng, W. Q., Cai, S. J., Liu, F. Q. & Xu, Y. (2019). Clinicopathologic features and prognostic value of KRAS, NRAS, and BRAF mutations and DNA mismatch repair status: a single single-center retrospective study of 1834 Chinese patients with stage I I-IV colorectal cancer. *International Journal of Cancer*. [doi.org/10.1002/ijc.32489](https://doi.org/10.1002/ijc.32489)
 
 
-
-
-Talks
-======
-**Emory Alliance for Vaccine Epidemiology (EAVE) 2022**\
-*September, 2022*\
-Comparing Vaccine Immunogenicity across Trials with Different Populations and Sampling Designs\
-The slides can be found [here](/files/talks_posters_related/Lightning.pdf)
-
-**ENAR 2022**\
-*March, 2022*\
-Identifying HIV Sequences that Escape Antibody Neutralization Using Random Forests and Collaborative Targeted Learning\
-The slides can be found [here](/files/talks_posters_related/ENAR_2022.pdf)
-
-
-Posters
-======
-**28th International Dynamics & Evolution of Human Viruses conference**\
-*virturally May, 2021*\
-TARGETED MACHINE LEARNING FOR UNDERSTANDING HIV RESISTANCE TO NEUTRALIZING ANTIBODIES\
-The poster can be found [here](/files/talks_posters_related/PosterPresentations_YJ.pdf)
 
 
