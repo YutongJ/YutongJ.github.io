@@ -9,7 +9,8 @@ tags:
 ---
 <!-- This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`.  -->
 
-![cluster_logo](/images/posts_related/rsph_cluster.PNG)
+<!-- ![cluster_logo](/images/posts_related/rsph_cluster.PNG) -->
+<img src="/images/posts_related/rsph_cluster.PNG" width="50%" height="auto" >
 
 ## Prerequisite
 If you want to access the culster from outside the Emory (e.g. using Emory wifi), you need to connect to [Emory VPN](https://it.emory.edu/vpntools/) first.
