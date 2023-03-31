@@ -2,6 +2,7 @@
 title: 'Customize your personal website'
 date: 2023-02-22
 <!-- permalink: /posts/2012/08/blog-post-4/ -->
+categories: How-to-build-a-website
 tags:
   - personal website
   - customize

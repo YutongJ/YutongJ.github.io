@@ -2,6 +2,7 @@
 title: 'Parallel Jobs on HPC'
 date: 2022-10-15
 <!-- permalink: /posts/2012/08/blog-post-4/ -->
+categories: HPC
 tags:
   - command line
   - HPC

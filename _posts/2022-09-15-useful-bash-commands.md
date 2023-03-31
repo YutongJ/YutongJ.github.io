@@ -2,6 +2,7 @@
 title: 'Some Useful Bash Commands'
 date: 2022-09-15
 <!-- permalink: /posts/2012/08/blog-post-4/ -->
+categories: HPC
 tags:
   - command line
   - HPC

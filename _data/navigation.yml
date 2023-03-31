@@ -16,8 +16,8 @@ main:
     url: /cv/
   
   - title: "Blogs"
-    url: /year-archive/
-    
+    # url: /year-archive/
+    url: /categories/
     
   # - title: "Guide"
   #   url: /markdown/
