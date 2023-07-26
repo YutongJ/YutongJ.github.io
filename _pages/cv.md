@@ -15,7 +15,7 @@ My CV is available [here](/files/CV_YJ.pdf)
 
 Education
 ======
-**Ph.D** in Biostatistics, Emory University, 2023 (expected)\
+**Ph.D** in Biostatistics, Emory University, 2023\
 Dissertation Advisor: [David Benkeser](https://www.sph.emory.edu/faculty/profile/index.php?FID=8917)\
 Dissertation Committee: 
 [Holly Janes](https://www.fredhutch.org/en/faculty-lab-directory/janes-holly.html),
