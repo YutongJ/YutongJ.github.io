@@ -58,7 +58,7 @@ mkdir /Users/yutong/local_HPC_folder
 ``` 
 3. Mount cluster directory to your local directory. Here is an example of mount remote folder `/home/yjin85` to local folder `/Users/yutong/yjin85/`:
 ```bash
-sshfs yjin85@clogin01.sph.emory.edu:/home/yjin85 /Users/yutong/Firmiana/yjin85/ -o auto_cache -o follow_symlinks
+sshfs yjin85@clogin01.sph.emory.edu:/home/yjin85 /Users/yutong/yjin85/ -o auto_cache -o follow_symlinks
 ```
 4. If you mount with error in step 3 and want to re-mount, you should unmount first with the following:
 ```bash
