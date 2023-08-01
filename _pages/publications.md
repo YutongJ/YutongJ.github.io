@@ -20,7 +20,7 @@ Publications
 ======
 
 ## Methodology Works:
-[3] **Jin, Y.**, Luedtke, A., & Benkeser, D. (2022+). Comparing Vaccine Immunogenicity across Trials with Different Populations and Study Designs. (To be submitted)
+[3] **Jin, Y.**, Luedtke, A., & Benkeser, D. (2023+). Comparing Vaccine Immunogenicity across Trials with Different Populations and Study Designs. (To be submitted)
 
 [2] **Jin, Y.** & Benkeser, D. (2022). Identifying HIV sequences that escape antibody neutralization using random forests and collaborative targeted learning. *Journal of Causal Inference*. [https://doi.org/10.1515/jci-2021-0053](https://doi.org/10.1515/jci-2021-0053)
 
@@ -28,14 +28,13 @@ Publications
 
 
 ## Applied Works:
-[10] **Jin, Y.**, Li, J. & Du, Y. (2022+). Improved Inference for Binary Outcome Dichotomized from Continuous Variable with Super Learner and Targeted Learning. (In preparation)
+[10] **Jin, Y.**, Li, J. & Du, Y. (2023+). Improved Inference for Binary Outcome Dichotomized from Continuous Variable with Super Learner and Targeted Learning. (In preparation)
 
-[9] **Jin, Y.**, Benkeser, D., Kipiani, M., Mikiashvili, L., Barbakadze, K., Avaliani, Z., Alghamdi, W., Al-Shaer, M.H., Peloquin, C.A., Blumberg, H.M., & Kempker, R.R. (2022+). The impact of QTc prolonging drugs and anti-tuberculosis pharmacokinetics including bedaquiline and delamanid on QTc prolongation. <!-- *International Journal of Antimicrobial Agents*. -->(Under Review)
+[9] Wood, K., **Jin, Y.**, & Krafty, R. T. (2023+). Psychometric Evaluation of the Patient Perspective of Arrhythmia Questionnaire. (In preparation)
 
-[8] Wood, K., **Jin, Y.**, & Krafty, R. T. (2022+). The validation of the Patient Perception of Arrhythmia Questionnaire. (In preparation)
+[8] Zhao, Y., **Jin, Y.** & Benkeser, D. (2023+). Evaluating Doubly Robust, Machine Learning-based Approaches for Estimating Treatment Effects in Small Observational Studies. *Epidemiology*. (Under revision)
 
-[7] Zhao, Y., **Jin, Y.** & Benkeser, D. (2022). Evaluating Doubly Robust, Machine Learning-based Approaches for Estimating Treatment Effects in Small Observational Studies. *Epidemiology*. (Under revision)
-
+[7] **Jin, Y.**, Benkeser, D., Kipiani, M., Maranchick, N.F., Mikiashvili, L., Barbakadze, K., Avaliani, Z., Alghamdi, W., Alshaer, M.H., Peloquin, C.A., Blumberg, H.M., & Kempker, R.R. (2023). The effect of anti-tuberculosis drug pharmacokinetics on QTc prolongation. *International Journal of Antimicrobial Agents*. [https://doi.org/10.1016/j.ijantimicag.2023.106939](https://doi.org/10.1016/j.ijantimicag.2023.106939)
 
 [6] Shi, X., Cai, Y., Zhou, M., **Jin, Y. T.**, Sun, G. S., Zhao, L., Han, F., Qu, J. F. & Zhao, M. W. (2022). Diurnal changes of retinal microvascular circulation and RNFL thickness measured by optical coherence tomography angiography in patients with obstructive sleep apnea-hypopnea. *Frontiers in Endocrinology*. [https://doi.org/10.3389/fendo.2022.947586](https://doi.org/10.3389/fendo.2022.947586)
 
