@@ -20,7 +20,15 @@ Publications
 ======
 
 ## Methodology Works:
-[3] **Jin, Y.**, Luedtke, A., & Benkeser, D. (2023+). Comparing Vaccine Immunogenicity across Trials with Different Populations and Study Designs. (To be submitted)
+<!-- [7] **Jin, Y.**, Gilbert, P. & Hudson, A. (2024+). Visualization of the effect of continuous treatments on survival summaries. (To be submitted) -->
+
+[6] **Jin, Y.**, Gilbert, P. & Hudson, A. (2024+). A class of nonparametric methods for evaluating the effect of continuous treatments on survival outcomes. (To be submitted)
+
+[5] **Jin, Y.**, Ran, J., Risk, B. & Benkeser, D. (2024+). Standardized causal effect size. (To be submitted)
+
+[4] **Jin, Y.**, Luedtke, A., Moodie, Z., Janes, H. & Benkeser, D. (2024+). Comparing Vaccine Immunogenicity across Trials with Different Populations and Study Designs. (Submitted)
+
+[3] Wu, J.\*, van der Laan, L.\*, **Jin, Y.**, Juraska, M. & Benkeser, D. (2024+). Exposure-induced confounding of missing causes of failure with applications in estimating strain-specific vaccine efficacy. (Submitted)
 
 [2] **Jin, Y.** & Benkeser, D. (2022). Identifying HIV sequences that escape antibody neutralization using random forests and collaborative targeted learning. *Journal of Causal Inference*. [https://doi.org/10.1515/jci-2021-0053](https://doi.org/10.1515/jci-2021-0053)
 
@@ -28,15 +36,18 @@ Publications
 
 
 ## Applied Works:
-[10] **Jin, Y.**, Li, J. & Du, Y. (2023+). Improved Inference for Binary Outcome Dichotomized from Continuous Variable with Super Learner and Targeted Learning. (In preparation)
+[11] **Jin, Y.**, Li, J. & Du, Y. (2024+). Improved Inference for Binary Outcome Dichotomized from Continuous Variable with Super Learner and Targeted Learning. (in preparation)
 
-[9] Wood, K., **Jin, Y.**, & Krafty, R. T. (2023+). Psychometric Evaluation of the Patient Perspective of Arrhythmia Questionnaire. (In preparation)
+[10] Wood, K.A., **Jin, Y.**, Krafty, R.T., James, J.H., Iyer, S.K. & Badhwar, N. (2024+). Psychometric Evaluation of the Patient Perspective of Arrhythmia Questionnaire. (under review)
 
-[8] Zhao, Y., **Jin, Y.** & Benkeser, D. (2023+). Evaluating Doubly Robust, Machine Learning-based Approaches for Estimating Treatment Effects in Small Observational Studies. *Epidemiology*. (Under revision)
+[9] Zhao, Y., **Jin, Y.** Kempker R, Kipiani M & Benkeser, D. (2024+). Evaluating Doubly Robust, Machine Learning-based Approaches for Estimating Treatment Effects in Small Observational Studies. *Epidemiology*. (under revision)
 
-[7] **Jin, Y.**, Benkeser, D., Kipiani, M., Maranchick, N.F., Mikiashvili, L., Barbakadze, K., Avaliani, Z., Alghamdi, W., Alshaer, M.H., Peloquin, C.A., Blumberg, H.M., & Kempker, R.R. (2023). The effect of anti-tuberculosis drug pharmacokinetics on QTc prolongation. *International Journal of Antimicrobial Agents*. [https://doi.org/10.1016/j.ijantimicag.2023.106939](https://doi.org/10.1016/j.ijantimicag.2023.106939)
+[8] Collins, J.M., Kipiani, M., **Jin, Y.**, Sharma, A.A., Tomalka, J.A., Avaliani, T., Gujabidze, M., Bakuradze, T., Sabanadze, S., Avaliani, Z., Blumberg, H.M., Benkeser, D., Jones, D.P., Peloquin, C.A. & Kempker, R.R. Pharmacometabolomics in TB Meningitis – understanding the pharmacokinetic, metabolic, and immune factors associated with anti-TB drug concentrations in cerebrospinal fluid. (under revision)
 
-[6] Shi, X., Cai, Y., Zhou, M., **Jin, Y. T.**, Sun, G. S., Zhao, L., Han, F., Qu, J. F. & Zhao, M. W. (2022). Diurnal changes of retinal microvascular circulation and RNFL thickness measured by optical coherence tomography angiography in patients with obstructive sleep apnea-hypopnea. *Frontiers in Endocrinology*. [https://doi.org/10.3389/fendo.2022.947586](https://doi.org/10.3389/fendo.2022.947586)
+[7] **Jin, Y.**, Benkeser, D., Kipiani, M., Maranchick, N.F., Mikiashvili, L., Barbakadze, K., Avaliani, Z., Alghamdi, W., Alshaer, M.H., Peloquin, C.A., Blumberg, H.M. & Kempker, R.R. (2023). The effect of anti-tuberculosis drug pharmacokinetics on QTc prolongation. *International Journal of Antimicrobial Agents*. [https://doi.org/10.1016/j.ijantimicag.2023.106939](https://doi.org/10.1016/j.ijantimicag.2023.106939)
+
+[6] Cai, Y.\*, Liu, W. B.\*, Zhou, M.\*, **Jin, Y. T.**, Sun, G. S., Zhao, L., Han, F., Qu, J. F., Shi, X. & Zhao, M. W. (2022). Diurnal changes of retinal microvascular circulation and RNFL thickness measured by optical coherence tomography angiography in patients with obstructive sleep apnea-hypopnea. *Frontiers in Endocrinology*. [https://doi.org/10.3389/fendo.2022.947586](https://doi.org/10.3389/fendo.2022.947586)
+
 
 [5] Moodie, Z., Dintwe, O., Sawant, S., Grove, D., Huang, Y., Janes, H., Heptinstall, J., Laher Omar, F., Cohen, K., De Rosa, S. C., Zhang, L., Yates, N. L., Sarzotti-Kelsoe, M., Seaton, K. E., Laher, F., Bekker, L. G., Malahleha, M., Innes, C., Kassim, S., Naicker, N., Govender, V., Sebe, M., Singh, N., Kotze, P., Lazarus, E., Nchabeleng, M., Ward, A. M., Brumskine, W., Dubula, T., Randhawa, A. K., Grunenberg, N., Hural, J., Kee, J. J., Benkeser, D., **Jin, Y.**, Carpp, L. N., Allen, M., D’Souza, P., Tartaglia, J., DiazGranados, C., Koutsoukos, M., Gilbert, P., Kublin, J., Corey, L., Andersen-Nissen, E., Gray, G., Tomaras, G. & McElrath, M. J. (2022). Analysis of the HVTN 702 phase 2B-3 HIV-1 vaccine trial in South Africa assessing RV144 antibody and T-cell correlates of HIV-1 Acquisition Risk. *The Journal of Infectious Diseases*. [https://doi.org/10.1093/infdis/jiac260](https://doi.org/10.1093/infdis/jiac260)
 
