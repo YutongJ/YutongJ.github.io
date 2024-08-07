@@ -24,7 +24,7 @@ Publications
 
 [6] **Jin, Y.**, Gilbert, P. & Hudson, A. (2024+). A class of nonparametric methods for evaluating the effect of continuous treatments on survival outcomes. (To be submitted)
 
-[5] **Jin, Y.**, Ran, J., Risk, B. & Benkeser, D. (2024+). Standardized causal effect size. (To be submitted)
+[5] **Jin, Y.**, Ran, J., Risk, B. & Benkeser, D. (2024+). Standardized causal effect in biomedical research. (To be submitted)
 
 [4] **Jin, Y.**, Luedtke, A., Moodie, Z., Janes, H. & Benkeser, D. (2024+). Comparing Vaccine Immunogenicity across Trials with Different Populations and Study Designs. (Submitted)
 
