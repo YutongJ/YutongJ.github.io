@@ -16,7 +16,8 @@ tags:
 
 ## Life is short but jobs are infinite.
 
-To avoid waiting for the simulation results forever, it is necessary to learn how parallel computing works in an HPC setting. 
+Tired of staring at a blank screen, waiting for your simulation results to materialize? Join the club! Learning parallel computing on an HPC is like discovering a secret shortcut to faster, more efficient research. It’s basically like having a personal time machine for your data.
+
 <!--more-->
 
 In the following example, I am trying to conduct 300k simulations using R. However, our HPC only allows 1000 parallel tasks per job-id and 20 jobs at a time. So the general idea for parallel working is to write some codes in .bash that can automatically submit jobs for us and for each job, it can span all available resources to perform simulation simultaneously. To achieve this goal, I will give out a template for running such large-scale simulations.
@@ -69,7 +70,7 @@ params <- expand.grid(
 
 ## For .bash file
 
-In our case, we have 300k jobs to submit while HPC only allows 1000 parallel computing at most using "array". We thus need two .bash files:
+In our case, we have 300k jobs to submit while HPC only allows 1000 parallel computing at most using "array". We thus need two `.bash` files:
 
 - `new_submit.slurm`: perform 1000 parallel simulations using "array". 
 - `new_sbatch.slurm`: successively submit `new_submit.slurm` with different array base number. (I will explain what it means later.)
@@ -87,13 +88,13 @@ Here are the example code for both `.bash` file:
 # sbatch new_sbatch.slurm
 
 path_read="/..../"  # read directory
-path_save0="/..../"  # write directory
+path_save="/..../"  # write directory
 
 # array base number
 for iter in {0..299}
 do
 
-sbatch -J sim -o ${path_read}out/o_%A_%a.out -e ${path_read}err/e_%A_%a.err new_submit.slurm $iter $path_read $path_save0
+sbatch -J sim -o ${path_read}out/o_%A_%a.out -e ${path_read}err/e_%A_%a.err new_submit.slurm $iter $path_read $path_save
 
 done
 ```
@@ -112,8 +113,7 @@ done
 
 ##################### Change these constants ##############################
 path_read="$2"  # read directory
-path_save0="$3"  # write directory
-path_save=${path_save0}  # write directory
+path_save="$3"  # write directory
 
 
 # pass in the array base number
@@ -123,13 +123,12 @@ let sim=${my_array_base}*1000+${SLURM_ARRAY_TASK_ID}
 
 
 # if path directory doesn't exist, make it
-[ ! -d ${path_save0} ] && mkdir ${path_save0}
 [ ! -d ${path_save} ] && mkdir ${path_save}
 [ ! -d ${path_read}out ] && mkdir ${path_read}out
 [ ! -d ${path_read}err ] && mkdir ${path_read}err
 
 module purge
-module load R/4.0.3
+module load R/4.0.3 # specify R version
 
 chmod +x ${path_read}new_sim.R
 srun Rscript ${path_read}new_sim.R path_read=${path_read} path_save=${path_save} sim=${sim}
@@ -137,8 +136,11 @@ srun Rscript ${path_read}new_sim.R path_read=${path_read} path_save=${path_save}
 exit 0
 ```
 
-Here is an example of how it works:\
-If `my_array_base=5`, `SLURM_ARRAY_TASK_ID=999`, then `sim=5*1000+999=5999`, which would be passed into `.R` file for further computing. The range of `my_array_base` would be 0~299 (since we have 300k in total).
+Here's a breakdown of how the array index works for the simulation:\
+* **Base Value:** `my_array_base` is a starting point for each simulation. In this example, it ranges from 0 to 299.
+* **Task ID:** `SLURM_ARRAY_TASK_ID` is a unique identifier assigned to each individual simulation job. In this case, it starts at 1 and goes up to 1000.
+* **Combined Index:** To create a unique identifier for each simulation, we combine the base value and task ID using the formula: `sim = my_array_base * 1000 + SLURM_ARRAY_TASK_ID`.
+* **Example:** If `my_array_base` is 5 and `SLURM_ARRAY_TASK_ID` is 999, the combined index (simulation number) would be 5 * 1000 + 999 = 5999. This value is then passed to the `.R` file for further processing.
 
 
 <span style="color:red"> **Caveat**</span>:
