@@ -18,8 +18,11 @@ author_profile: true
 
 Talks
 ======
+**Joint Statistical Meetings (JSM) 2024**\
+*May, 2024*\
+A class of nonparametric methods for evaluating the effect of continuous treatments on survival outcomes\
 
-**ENAR 2023**\
+**Eastern North American Region (ENAR) meeting, 2023**\
 *March, 2023*\
 Comparing Vaccine Immunogenicity across Trials with Different Populations and Study Designs\
 <!-- The slides can be found [here](/files/talks_posters_related/ENAR_2023.pdf) -->
@@ -29,7 +32,7 @@ Comparing Vaccine Immunogenicity across Trials with Different Populations and St
 Comparing Vaccine Immunogenicity across Trials with Different Populations and Sampling Designs\
 <!-- The slides can be found [here](/files/talks_posters_related/Lightning.pdf) -->
 
-**ENAR 2022**\
+**Eastern North American Region (ENAR) meeting, 2022**\
 *March, 2022*\
 Identifying HIV Sequences that Escape Antibody Neutralization Using Random Forests and Collaborative Targeted Learning\
 <!-- The slides can be found [here](/files/talks_posters_related/ENAR_2022.pdf) -->
@@ -37,6 +40,10 @@ Identifying HIV Sequences that Escape Antibody Neutralization Using Random Fores
 
 Posters
 ======
+**American Causal Inference Conference (ACIC) 2024**\
+*May, 2024*\
+Comparing Vaccine Immunogenicity across Trials with Different Populations and Sampling Designs\
+
 **28th International Dynamics & Evolution of Human Viruses conference**\
 *virturally May, 2021*\
 Targeted Machine Learning for Understanding HIV Resistance to Neutralizing Antibodies\
