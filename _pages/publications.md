@@ -36,7 +36,7 @@ Publications
 
 
 ## Applied Works:
-[12] Day, L. C., **Jin, Y.**, & Benkeser, D. # (2024+). The Relationship between Maternal Immune Activation during Pregnancy and Infant Immune Responses. (in preparation)
+[12] **Jin, Y.**, Benkeser, D., & Day, L. C. # (2024+). The Relationship between Maternal Immune Activation during Pregnancy and Infant Immune Responses. (in preparation)
 
 [11] Wood, K.A., **Jin, Y.**, Krafty, R.T., James, J.H., Iyer, S.K. & Badhwar, N. (2024+). Psychometric Evaluation of the Patient Perspective of Arrhythmia Questionnaire. (under review)
 
