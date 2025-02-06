@@ -22,13 +22,13 @@ Publications
 ## Methodology Works:
 <!-- [7] **Jin, Y.**, Gilbert, P. & Hudson, A. (2024+). Visualization of the effect of continuous treatments on survival summaries. (To be submitted) -->
 
-[6] **Jin, Y.**, Gilbert, P. & Hudson, A. (2024+). A class of nonparametric methods for evaluating the effect of continuous treatments on survival outcomes. (to be submitted)
+[6] **Jin, Y.**, Gilbert, P. & Hudson, A. (2025+). A class of nonparametric methods for evaluating the effect of continuous treatments on survival outcomes. (submitted)
 
-[5] **Jin, Y.**, Ran, J., Risk, B. & Benkeser, D. (2024+). Standardized causal effect in biomedical research. (to be submitted)
+[5] **Jin, Y.**, Ran, J., Risk, B. & Benkeser, D. (2025+). Standardized causal effect in biomedical research. (to be submitted)
 
-[4] Wu, J.\*, van der Laan, L.\*, **Jin, Y.**, Juraska, M. & Benkeser, D. (2024+). Exposure-induced confounding of missing causes of failure with applications in estimating strain-specific vaccine efficacy. (under review)
+[4] Wu, J.\*, van der Laan, L.\*, **Jin, Y.**, Juraska, M. & Benkeser, D. (2024+). Exposure-induced confounding of missing causes of failure with applications in estimating strain-specific vaccine efficacy. (under revision)
 
-[3] **Jin, Y.**, Luedtke, A., Moodie, Z., Janes, H. & Benkeser, D. (2024+). Comparing Vaccine Immunogenicity across Trials with Different Populations and Study Designs. (under review)
+[3] **Jin, Y.**, Luedtke, A., Moodie, Z., Janes, H. & Benkeser, D. (2024+). Comparing Vaccine Immunogenicity across Trials with Different Populations and Study Designs. (under revision)
 
 [2] **Jin, Y.** & Benkeser, D. (2022). Identifying HIV sequences that escape antibody neutralization using random forests and collaborative targeted learning. *Journal of Causal Inference*. [https://doi.org/10.1515/jci-2021-0053](https://doi.org/10.1515/jci-2021-0053)
 
@@ -40,7 +40,7 @@ Publications
 
 [11] Wood, K.A., **Jin, Y.**, Krafty, R.T., James, J.H., Iyer, S.K. & Badhwar, N. (2024+). Psychometric Evaluation of the Patient Perspective of Arrhythmia Questionnaire. (under review)
 
-[10] Collins, J.M., Kipiani, M., **Jin, Y.**, Sharma, A.A., Tomalka, J.A., Avaliani, T., Gujabidze, M., Bakuradze, T., Sabanadze, S., Avaliani, Z., Blumberg, H.M., Benkeser, D., Jones, D.P., Peloquin, C.A. & Kempker, R.R. Pharmacometabolomics in TB Meningitis – understanding the pharmacokinetic, metabolic, and immune factors associated with anti-TB drug concentrations in cerebrospinal fluid. (under review)
+[10] Collins, J.M., Kipiani, M., **Jin, Y.**, Sharma, A.A., Tomalka, J.A., Avaliani, T., Gujabidze, M., Bakuradze, T., Sabanadze, S., Avaliani, Z., Blumberg, H.M., Benkeser, D., Jones, D.P., Peloquin, C.A. & Kempker, R.R. Pharmacometabolomics in TB Meningitis – understanding the pharmacokinetic, metabolic, and immune factors associated with anti-TB drug concentrations in cerebrospinal fluid. *PlOS One*. (in press)
 
 [9] Zhao, Y., **Jin, Y.**, Kempker R, Kipiani M & Benkeser, D. (2024+). Evaluating Doubly Robust, Machine Learning-based Approaches for Estimating Treatment Effects in Small Observational Studies. *Epidemiology*. (under revision)
 
