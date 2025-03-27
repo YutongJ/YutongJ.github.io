@@ -22,13 +22,13 @@ Publications
 ## Methodology Works:
 <!-- [7] **Jin, Y.**, Gilbert, P. & Hudson, A. (2024+). Visualization of the effect of continuous treatments on survival summaries. (To be submitted) -->
 
-[6] **Jin, Y.**, Gilbert, P. & Hudson, A. (2025+). A class of nonparametric methods for evaluating the effect of continuous treatments on survival outcomes. (submitted)
+[6] **Jin, Y.**, Ran, J., Risk, B. & Benkeser, D. (2025+). Standardized causal effect in biomedical research. (to be submitted)
 
-[5] **Jin, Y.**, Ran, J., Risk, B. & Benkeser, D. (2025+). Standardized causal effect in biomedical research. (to be submitted)
+[5] **Jin, Y.**, Gilbert, P. & Hudson, A. (2025+). A class of nonparametric methods for evaluating the effect of continuous treatments on survival outcomes. (under review)
 
-[4] Wu, J.\*, van der Laan, L.\*, **Jin, Y.**, Juraska, M. & Benkeser, D. (2024+). Exposure-induced confounding of missing causes of failure with applications in estimating strain-specific vaccine efficacy. (under revision)
+[4] Wu, J.\*, van der Laan, L.\*, **Jin, Y.**, Juraska, M. & Benkeser, D. (2025+). Exposure-induced confounding of missing causes of failure with applications in estimating strain-specific vaccine efficacy. (under revision)
 
-[3] **Jin, Y.**, Luedtke, A., Moodie, Z., Janes, H. & Benkeser, D. (2024+). Comparing Vaccine Immunogenicity across Trials with Different Populations and Study Designs. (under revision)
+[3] **Jin, Y.**, Luedtke, A., Moodie, Z., Janes, H. & Benkeser, D. (2025+). Comparing Vaccine Immunogenicity across Trials with Different Populations and Study Designs. (under revision)
 
 [2] **Jin, Y.** & Benkeser, D. (2022). Identifying HIV sequences that escape antibody neutralization using random forests and collaborative targeted learning. *Journal of Causal Inference*. [https://doi.org/10.1515/jci-2021-0053](https://doi.org/10.1515/jci-2021-0053)
 
@@ -38,13 +38,13 @@ Publications
 ## Applied Works:
 [12] **Jin, Y.**, Benkeser, D., & Day, L. C. # (2024+). The Relationship between Maternal Immune Activation during Pregnancy and Infant Immune Responses. (in preparation)
 
-[11] Wood, K.A., **Jin, Y.**, Krafty, R.T., James, J.H., Iyer, S.K. & Badhwar, N. (2024+). Psychometric Evaluation of the Patient Perspective of Arrhythmia Questionnaire. (under review)
+[11] Wood, K.A., **Jin, Y.**, Krafty, R.T., James, J.H., Iyer, S.K. & Badhwar, N. (2024+). Psychometric Evaluation of the Patient Perspective of Arrhythmia Questionnaire. (under revision)
 
-[10] Collins, J.M., Kipiani, M., **Jin, Y.**, Sharma, A.A., Tomalka, J.A., Avaliani, T., Gujabidze, M., Bakuradze, T., Sabanadze, S., Avaliani, Z., Blumberg, H.M., Benkeser, D., Jones, D.P., Peloquin, C.A. & Kempker, R.R. Pharmacometabolomics in TB Meningitis – understanding the pharmacokinetic, metabolic, and immune factors associated with anti-TB drug concentrations in cerebrospinal fluid. *PlOS One*. (in press)
+[10] Zhao, Y., **Jin, Y.**, Kempker R, Kipiani M & Benkeser, D. (2024+). Evaluating Doubly Robust, Machine Learning-based Approaches for Estimating Treatment Effects in Small Observational Studies. *Epidemiology*. (under revision)
 
-[9] Zhao, Y., **Jin, Y.**, Kempker R, Kipiani M & Benkeser, D. (2024+). Evaluating Doubly Robust, Machine Learning-based Approaches for Estimating Treatment Effects in Small Observational Studies. *Epidemiology*. (under revision)
+[9] **Jin, Y.**, Li, J. & Du, Y. (2024+). Improved Inference for Binary Outcome Dichotomized from Continuous Variable with Super Learner and Targeted Learning. (preprint)
 
-[8] **Jin, Y.**, Li, J. & Du, Y. (2024+). Improved Inference for Binary Outcome Dichotomized from Continuous Variable with Super Learner and Targeted Learning. (preprint)
+[8] Collins, J.M., Kipiani, M., **Jin, Y.**, Sharma, A.A., Tomalka, J.A., Avaliani, T., Gujabidze, M., Bakuradze, T., Sabanadze, S., Avaliani, Z., Blumberg, H.M., Benkeser, D., Jones, D.P., Peloquin, C.A. & Kempker, R.R. Pharmacometabolomics in TB Meningitis – understanding the pharmacokinetic, metabolic, and immune factors associated with anti-TB drug concentrations in cerebrospinal fluid. *PlOS One*. [https://doi.org/10.1371/journal.pone.0315999](https://doi.org/10.1371/journal.pone.0315999)
 
 [7] **Jin, Y.**, Benkeser, D., Kipiani, M., Maranchick, N.F., Mikiashvili, L., Barbakadze, K., Avaliani, Z., Alghamdi, W., Alshaer, M.H., Peloquin, C.A., Blumberg, H.M. & Kempker, R.R. (2023). The effect of anti-tuberculosis drug pharmacokinetics on QTc prolongation. *International Journal of Antimicrobial Agents*. [https://doi.org/10.1016/j.ijantimicag.2023.106939](https://doi.org/10.1016/j.ijantimicag.2023.106939)
 
