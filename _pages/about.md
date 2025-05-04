@@ -24,9 +24,9 @@ My recent research focuses on causal inference and machine learning, particularl
 
 I am a research scientist at [Fred Hutch](https://www.fredhutch.org/en/research/divisions/vaccine-infectious-disease-division.html) with hands-on experience in designing and implementing statistical and machine learning methods to solve real-world problems. My background includes rigorous training in data analysis, statistical modeling, and causal inference, with a strong emphasis on generating actionable insights from complex, high-dimensional data.
 
-I completed my PhD in Biostatistics at [Emory University](https://www.sph.emory.edu/departments/bios/index.html), where I worked on developing robust and efficient statistical procedures using machine learning techniques. My work has involved high-dimensional feature selection, targeted learning algorithms, and theory for two-stage sampling designs—tools that I have applied to large-scale datasets to inform decision-making and improve outcomes.
+I completed my PhD in Biostatistics at [Emory University](https://www.sph.emory.edu/departments/bios/index.html). where I worked on developing robust and efficient statistical procedures using machine learning techniques. My work has involved high-dimensional feature selection, targeted learning algorithms, and theory for two-stage sampling designs - techniques that I have applied to large-scale datasets to support data-driven decision-making.
 
-I enjoy working at the intersection of statistics and data science, and I am passionate about building data-driven solutions that are both technically sound and practically impactful!
+I enjoy working at the intersection of statistics and data science, and I am passionate about developing reliable, interpretable, and scalable solutions that drive real-world impact.
 
 
 
