@@ -3,21 +3,24 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  # - title: "Talks"
+    # url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "CV"
+  - title: "Education"
     url: /cv/
   
   - title: "Blogs"
     # url: /year-archive/
-    url: /categories/
+    url: /categories/ # permalink in /_pages/category-archive.html
     
+  # - title: "Misc"
+    # url: /misc/
+
   # - title: "Guide"
   #   url: /markdown/

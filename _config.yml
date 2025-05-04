@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "YUTONG JIN"
 title_separator          : "-"
 name                     : &name "Yutong Jin"
-description              : &description "Postdoc at Fred Hutch"
+description              : &description ""
 url                      : https://YutongJ.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YutongJ/YutongJ.github.io"
@@ -83,8 +83,8 @@ analytics:
 author:
   name             : "Yutong Jin\n(靳语桐)\n"
   avatar           : "Headshots.jpg"
-  bio              : "Postdoc at Fred Hutch"
-  location         : "Atlanta, US"
+  bio              : #"Postdoc at Fred Hutch"
+  location         : "Seattle, United States"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=EjObSRYAAAAJ&hl=en"
@@ -103,8 +103,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yutong-j-3497a558/"
-  orcid            : "http://orcid.org/0000-0002-8996-4812"
+  linkedin         : #"https://www.linkedin.com/in/yutong-j-3497a558/"
+  orcid            : #"http://orcid.org/0000-0002-8996-4812"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

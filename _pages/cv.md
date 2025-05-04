@@ -13,11 +13,11 @@ redirect_from:
 
 
 
-Education and Training
+<!-- Education
 ======
-**Postdoc Research Fellow** in Biostatistics, Fred Hutch, 2023 - present\
+ --><!-- **Postdoc Research Fellow** in Biostatistics, Fred Hutch, 2023 - present\
 Mentor: [Aaron Hudson](https://www.fredhutch.org/en/faculty-lab-directory/hudson-aaron.html), [Peter Gilbert](https://www.fredhutch.org/en/faculty-lab-directory/gilbert-peter.html)
-
+ -->
 **Ph.D** in Biostatistics, Emory University, 2023\
 Dissertation Advisor: [David Benkeser](https://www.sph.emory.edu/faculty/profile/index.php?FID=8917)\
 Dissertation Committee: 
